@@ -1,4 +1,4 @@
-# Smart Contract Hello World 2
+# Smart Contract Hello World test
 
 This repository presents practices about:
 
