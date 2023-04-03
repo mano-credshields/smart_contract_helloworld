@@ -1,4 +1,4 @@
-# Smart Contract Hello World
+# Smart Contract Hello World 1
 
 This repository presents practices about:
 
